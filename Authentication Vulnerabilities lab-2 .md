@@ -52,10 +52,10 @@ To prevent similar vulnerabilities in real-world applications, the following sec
 
 By adopting these best practices, organizations can significantly improve their security posture and prevent **2FA bypass attacks**. 🔒
 
-![Picture12](https://github.com/user-attachments/assets/912525ad-384c-4904-84f4-7e17dae6e661)
-![Picture13](https://github.com/user-attachments/assets/1c605a1e-0703-4f1a-ae71-12a17fe3cfca)
-![Picture14](https://github.com/user-attachments/assets/a4025a7d-f2e5-446f-b5fc-57f9c97e7827)
-![picture 15 1](https://github.com/user-attachments/assets/17c99585-848d-41f9-b24f-d9eec5a2e925)
-![Picture15](https://github.com/user-attachments/assets/c4b24793-eb44-40f4-97ab-7b5f8c62fb99)
+![Picture12](https://github.com/user-attachments/assets/6be69016-4651-48c4-a9ee-4cb245735bea)
+![Picture13](https://github.com/user-attachments/assets/e73a97d4-1975-4062-ac02-5a9fc233b940)
+![Picture14](https://github.com/user-attachments/assets/f7474385-18c4-400f-b0f9-faed0cd605f3)
+![picture 15 1](https://github.com/user-attachments/assets/8aa75bd0-76c5-484d-bbcf-6c4d3ab42542)
+![Picture15](https://github.com/user-attachments/assets/31e21b7c-4805-488b-bd46-bc42f6da8dd6)
 
 

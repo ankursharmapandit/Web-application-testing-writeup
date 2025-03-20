@@ -67,3 +67,10 @@ By leveraging **password reset poisoning** via the `X-Forwarded-Host` header, we
 📌 **Author:** Ankur Sharma  
 📅 **Date:** 19th March 2025  
 
+![Picture43](https://github.com/user-attachments/assets/46312ca1-4ae6-4d95-8f8c-0d6ef2d9dbc5)
+![Picture44](https://github.com/user-attachments/assets/c6b7a9f5-694e-41e7-829b-350c1ad3b49a)
+<img width="468" alt="Picture45" src="https://github.com/user-attachments/assets/a517d4b4-7555-4341-b14e-c5a5a9bea398" />
+<img width="468" alt="Picture46" src="https://github.com/user-attachments/assets/3f87f92f-bb11-4a57-ba21-09fe4ad089ff" />
+![Picture47](https://github.com/user-attachments/assets/3746a2a6-2919-4d3f-94e3-3c8e6fd4a8f3)
+<img width="468" alt="Picture48" src="https://github.com/user-attachments/assets/a5bdbd42-b40c-4ea2-8928-15c42e684615" />
+<img width="468" alt="Picture49" src="https://github.com/user-attachments/assets/5458cb19-660e-47d1-9f30-de95954bc9cb" />
